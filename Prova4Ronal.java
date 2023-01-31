@@ -16,7 +16,7 @@ public class Prova4Ronal {
             alumnes[mes - 1]++;
             mes = entrada.nextInt();
         }
-        // Variables, una para el mex_max y otra para la posicion.
+        // Variables, una para mex_max y otra para la posicion.
         int mes_max = 0;
         int pos_max = 0;
         for (int i = 0; i < N_MESOS; i++) {
